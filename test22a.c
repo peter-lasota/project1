@@ -4,6 +4,7 @@ new line 2
 a snow-covered mountain in Banff National Park.
 new line 3
 Local line 6b
+New line 12c for Incremental
 Local line 7b
 New line 4a
 new line 9a
